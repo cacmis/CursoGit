@@ -22,3 +22,5 @@ Comandos basicos de GIT
 `git checkout BranchName`: Realiza el cambio de rama a la rama con el nombre [BranchName]
 
 `git checkout -b BranchName`: Realiza el cambio a una nueva rama con el nombre [BranchName]
+
+`git merge BranchName`: Funciona dos ramas tomando como base la rama actual e inserta los cambios de la rama [BranchName]
