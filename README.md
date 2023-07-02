@@ -17,4 +17,8 @@ Comandos basicos de GIT
 
 `git push origin BranchName`: Envia los cambios al repositorio remoto
 
-.
+`git branch BranchName`: Crea una nueva rama apartir de la rama actual con el nommbre especificado [BranchName]
+
+`git checkout BranchName`: Realiza el cambio de rama a la rama con el nombre [BranchName]
+
+`git checkout -b BranchName`: Realiza el cambio a una nueva rama con el nombre [BranchName]
