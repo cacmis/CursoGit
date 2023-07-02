@@ -23,6 +23,7 @@ Comandos basicos de GIT
 
 `git checkout -b BranchName`: Realiza el cambio a una nueva rama con el nombre [BranchName]
 
+`git merge BranchName`: Funciona dos ramas tomando como base la rama actual e inserta los cambios de la rama [BranchName]
 
 `Resolucion de conflictos`: para resolver confiltos VSCode abre un editor de conflictos que te permite seleccionar entre:
 
