@@ -22,3 +22,10 @@ Comandos basicos de GIT
 `git checkout BranchName`: Realiza el cambio de rama a la rama con el nombre [BranchName]
 
 `git checkout -b BranchName`: Realiza el cambio a una nueva rama con el nombre [BranchName]
+
+
+`Resolucion de conflictos`: para resolver confiltos VSCode abre un editor de conflictos que te permite seleccionar entre:
+
+ - Current Change
+ - Incomming Change
+ - Both Change
